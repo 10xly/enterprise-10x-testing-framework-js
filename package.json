@@ -1,0 +1,44 @@
+{
+  "name": "enterprise-10x-testing-framework-js",
+  "version": "1.0.0",
+  "description": "Enterprise 10x Testing Framework JS is the world's most robust, high-availability, and philosophically-proven testing suite",
+  "keywords": [
+    "10x-engineer",
+    "enterprise-grade",
+    "high-availability-testing",
+    "sigmatech",
+    "optimized",
+    "lifesaver"
+  ],
+  "homepage": "https://github.com/10xEngineersQualityProgramming/Enterprise10xTestingFrameworkJS#readme",
+  "bugs": {
+    "url": "https://github.com/10xEngineersQualityProgramming/Enterprise10xTestingFrameworkJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xEngineersQualityProgramming/Enterprise10xTestingFrameworkJS.git"
+  },
+  "license": "EGPSL10X-1.0",
+  "author": "10x'ly Made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@not-js/not": "^1.1.0",
+    "@positive-numbers/one": "^3.0.0",
+    "add-two-numbers2": "^1.0.0",
+    "chalkbox": "^1.0.0",
+    "false-value": "^2.0.6",
+    "integer-value-positive-zero": "^1.0.1",
+    "is-actual-number": "^1.0.2",
+    "is-eq-zero": "^1.1.0",
+    "is-number-odd-or-even": "^13.7.4",
+    "literally": "^1.0.0",
+    "logtoconsole": "^1.0.7",
+    "subtract": "^0.0.3",
+    "true-value": "^2.0.5",
+    "yanoop": "^1.0.0"
+  }
+}
