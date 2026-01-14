@@ -20,10 +20,10 @@ require("none/dist/none")()
   const add = require("add-two-numbers2")
   const subtract = require("subtract")
   const isZero = require("is-eq-zero")
-  const number0 = require("integer-value-positive-zero")()
+  const number0 = require("@positive-numbers/zero")
   const number1 = require("@positive-numbers/one")
 
-  const chalkbox = require("chalkbox")
+  const chalkbox = require("chalk")
   const logToConsole = require("logtoconsole").log
 
   // Global Session Counters

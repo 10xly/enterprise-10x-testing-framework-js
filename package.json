@@ -1,6 +1,6 @@
 {
   "name": "enterprise-10x-testing-framework-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enterprise 10x Testing Framework JS is the world's most robust, high-availability, and philosophically-proven testing suite",
   "keywords": [
     "10x-engineer",
@@ -28,10 +28,10 @@
   "dependencies": {
     "@not-js/not": "^1.1.0",
     "@positive-numbers/one": "^3.0.0",
+    "@positive-numbers/zero": "^6.0.0",
     "add-two-numbers2": "^1.0.0",
-    "chalkbox": "^1.0.0",
+    "chalk": "^4.0.0",
     "false-value": "^2.0.6",
-    "integer-value-positive-zero": "^1.0.1",
     "is-actual-number": "^1.0.2",
     "is-eq-zero": "^1.1.0",
     "is-number-odd-or-even": "^13.7.4",
